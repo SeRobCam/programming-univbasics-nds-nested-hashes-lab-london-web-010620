@@ -11,7 +11,7 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
   # Array. Ruby constants are denoted by ALL_CAPS
 
 def assembled_aoh
-  [{DON_G}; {JOELLE_VD}; {PAT_M}; {KATE_G}; {BRUCE_G}]
+  array = [{DON_G}; {JOELLE_VD}; {PAT_M}; {KATE_G}; {BRUCE_G}]
 end
 
 #2:
