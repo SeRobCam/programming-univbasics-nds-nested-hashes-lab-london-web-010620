@@ -20,7 +20,8 @@ end
 
 def literal_aoh
  array = [
-   {
+   { name:  "Don Gately", occupation: "Live-in Staff" },
+   
    ]
 end
 
