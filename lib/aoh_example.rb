@@ -19,7 +19,9 @@ end
 # held in the constants
 
 def literal_aoh
- 
+ array = [
+   {
+   ]
 end
 
 def aoh_lookup(aoh, row, key)
